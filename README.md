@@ -1,7 +1,7 @@
 # Revista Dos Vientos 🐼
 
 <!-- Add images/el_puente.png -->
-![El_puente](images/el_puente.png?raw=true)
+![El_puente](imagenes/el_puente.png?raw=true)
 
 - Magazine periodistico.
 
